@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="943a644c-77f9-4d48-abdc-05af65c020e4" name="Changes" comment="Ale">
-      <change afterPath="$PROJECT_DIR$/.idea/FinalSoftware.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ProyectoFinal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logica/gestor_passkeeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logica/login_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vista/gui_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vista/gui_main_passkeeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_passkeeper.py" afterDir="false" />
+    <list default="true" id="943a644c-77f9-4d48-abdc-05af65c020e4" name="Changes" comment="Passkeeper - Avance">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vista/passkeeper.db" beforeDir="false" afterPath="$PROJECT_DIR$/src/vista/passkeeper.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Diegodxd2028&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Diegodxd2028/PassKeeper_Avance.git&quot;,
+    &quot;accountId&quot;: &quot;16ca06ae-9d55-4476-9efd-b707fc787ad1&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -34,24 +36,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.pytest for test_passkeeper.test_add_password.executor": "Run",
-    "Python.gestor_passkeeper.executor": "Run",
-    "Python.gui_login.executor": "Run",
-    "Python.gui_main_passkeeper.executor": "Run",
-    "Python.gui_passkeeper.executor": "Run",
-    "Python.login_manager.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/20281/Downloads/FinalSoftware/FinalSoftware/FinalSoftware",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.pytest for test_passkeeper.test_add_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_passkeeper.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gestor_passkeeper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui_main_passkeeper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui_passkeeper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.login_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/20281/Downloads/FinalSoftware/FinalSoftware/FinalSoftware&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.gui_login">
     <configuration name="gestor_passkeeper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProyectoFinal" />
@@ -141,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_passkeeper.test_add_password" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_passkeeper.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="ProyectoFinal" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,8 +157,8 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_passkeeper.test_add_password&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_passkeeper.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -164,7 +167,7 @@
         <item itemvalue="Python.login_manager" />
         <item itemvalue="Python.gestor_passkeeper" />
         <item itemvalue="Python.gui_main_passkeeper" />
-        <item itemvalue="Python tests.pytest for test_passkeeper.test_add_password" />
+        <item itemvalue="Python tests.pytest in test_passkeeper.py" />
       </list>
     </recent_temporary>
   </component>
@@ -200,11 +203,20 @@
       <option name="project" value="LOCAL" />
       <updated>1731966080500</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Passkeeper - Avance">
+      <option name="closed" value="true" />
+      <created>1732558125279</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732558125279</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ale" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ale" />
+    <MESSAGE value="Passkeeper - Avance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Passkeeper - Avance" />
   </component>
 </project>
